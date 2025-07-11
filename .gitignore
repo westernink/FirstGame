@@ -1,0 +1,13 @@
+Saved/*
+
+Intermediate/*
+
+Plugins/*/Intermediate/*
+
+DerivedDataCache/*
+
+.vsconfig 
+
+*.sln
+
+Content/Scene_QuarrySlate
